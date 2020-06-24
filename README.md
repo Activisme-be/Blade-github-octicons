@@ -11,6 +11,16 @@ For a full list of available icons see the [SVG directory]().
 - PHP 7.2 or higher 
 - Laravel 7.14 or higher 
 
+## Icon information 
+
+This packagecomes with the Github Octicons. And 2 different sizes. **14px** and **26px** 
+The sizes are defined at the end off the icon name by example: 
+
+```
+<x:go-zap-16/>
+<x:go-zap-24/>
+```
+
 ## Install 
 
 Via composer: 
