@@ -2,7 +2,7 @@
 
 **Package is still under development.**
 
-A package to easily make use of Github Octicons in your Laravel Blade views. 
+A package to easily make use of [Github Octicons](https://primer.style/octicons/) in your Laravel Blade views. 
 
 For a full list of available icons see the [SVG directory]().
 
@@ -65,7 +65,7 @@ Then use them in your views like:
 
 ### Blade icons 
 
-Blade Github octicons uses blade icons under the hood. Please refer to [the Blade icons readme]() for additional
+Blade Github octicons uses blade icons under the hood. Please refer to [the Blade icons readme](https://github.com/driesvints/blade-icons/blob/master/README.md) for additional
 functionality.
 
 ## Testing 
@@ -80,11 +80,11 @@ Please see [CONTRIBUTING.md]() for details.
 
 ## Security 
 
-If you discover any security issues, please email [topairy@gmail.com]() unstead of using the issue tracker. 
+If you discover any security issues, please email [topairy@gmail.com](mailto:topairy@gmail.com) unstead of using the issue tracker. 
 
 ## Credits 
 
-- [Tjoosten]() 
+- [Tjoosten](https://github.com/Tjoosten) 
 - [All contributors]()
 
 ## License 
