@@ -1,0 +1,40 @@
+{
+  "name": "actb/blade-github-octicons",
+  "type": "library",
+  "description":"A package to easily make use of Github octicons in your Laravel blade views.",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2",
+    "blade-ui-kit/blade-icons": "^0.4.0",
+    "illuminate/support": "^7.14"
+  },
+  "require-dev": {
+    "orchestra/testbench": "^5.0",
+    "phpunir/phpunit": "^8.0|^9.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Actb\\BladeGithubOcticons\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Actb\\BladeGithubOcticons\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Actb\\BladeGithubOcticons\\FeatherIconsServiceProvider"
+      ]
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
