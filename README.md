@@ -89,4 +89,4 @@ If you discover any security issues, please email [topairy@gmail.com](mailto:top
 
 ## License 
 
-The MIT license (MIT). Please see [License file] for more information. 
+The MIT license (MIT). Please see [License file](LICENSE.md) for more information. 
