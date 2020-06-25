@@ -2,14 +2,24 @@
 
 **Package is still under development.**
 
-A package to easily make use of Github Octicons in your Laravel Blade views. 
+A package to easily make use of [Github Octicons](https://primer.style/octicons/) in your Laravel Blade views. 
 
-For a full list of available icons see the [SVG directory]().
+For a full list of available icons see the [SVG directory](https://github.com/Activisme-be/Blade-github-octicons/tree/master/resources/svg).
 
 ## Requirements 
 
 - PHP 7.2 or higher 
 - Laravel 7.14 or higher 
+
+## Icon information 
+
+This packagecomes with the Github Octicons. And 2 different sizes. **14px** and **26px** 
+The sizes are defined at the end off the icon name by example: 
+
+```
+<x:go-zap-16/>
+<x:go-zap-24/>
+```
 
 ## Install 
 
@@ -55,7 +65,7 @@ Then use them in your views like:
 
 ### Blade icons 
 
-Blade Github octicons uses blade icons under the hood. Please refer to [the Blade icons readme]() for additional
+Blade Github octicons uses blade icons under the hood. Please refer to [the Blade icons readme](https://github.com/driesvints/blade-icons/blob/master/README.md) for additional
 functionality.
 
 ## Testing 
@@ -66,17 +76,17 @@ $ composer test
 
 ## Contributing 
 
-Please see [CONTRIBUTING.md]() for details. 
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details. 
 
 ## Security 
 
-If you discover any security issues, please email [topairy@gmail.com]() unstead of using the issue tracker. 
+If you discover any security issues, please email [topairy@gmail.com](mailto:topairy@gmail.com) unstead of using the issue tracker. 
 
 ## Credits 
 
-- [Tjoosten]() 
-- [All contributors]()
+- [Tjoosten](https://github.com/Tjoosten) 
+- [All contributors](https://github.com/Activisme-be/Blade-github-octicons/graphs/contributors)
 
 ## License 
 
-The MIT license (MIT). Please see [License file] for more information. 
+The MIT license (MIT). Please see [License file](LICENSE.md) for more information. 
