@@ -14,10 +14,12 @@ class GithubOcticonsServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
-        $this->app->make(Factory::class)->add('github-octicons', [
-            'path' => __DIR__ . '/../resources/svg',
-            'prefix' => 'go',
-        ]);
+        $this->callAfterResolving(Factory::class, function (Factory $factory) {
+            $factory->add('github-octicons', [
+                'path' => __DIR__ . '/../resources/svg',
+                'prefix' => 'go',
+            ]);
+        });
 
         if ($this->app->runningInConsole()) {
             $this->publishes([
