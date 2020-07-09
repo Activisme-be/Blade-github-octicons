@@ -12,7 +12,7 @@ use Carbon\Laravel\ServiceProvider;
  */
 class GithubOcticonsServiceProvider extends ServiceProvider
 {
-    public function boot(): void
+    public function register(): void
     {
         $this->callAfterResolving(Factory::class, function (Factory $factory) {
             $factory->add('github-octicons', [
@@ -20,7 +20,10 @@ class GithubOcticonsServiceProvider extends ServiceProvider
                 'prefix' => 'go',
             ]);
         });
+    }
 
+    public function boot(): void
+    {
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__ . '/../resources/svg' => public_path('vendor/blade-github-octicons'),
