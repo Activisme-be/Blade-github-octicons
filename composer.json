@@ -28,7 +28,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Actb\\BladeGithubOcticons\\FeatherIconsServiceProvider"
+        "Actb\\BladeGithubOcticons\\GithubOcticonsServiceProvider"
       ]
     }
   },
