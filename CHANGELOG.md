@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## Unreleased
 
-## V1.2.0 
+## V1.2.0 - 2020-08-22
 
 - Added: `fill="currentColor` to the SVG icons 
 - Added: Contribution file.
