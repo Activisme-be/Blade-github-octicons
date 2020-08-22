@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## Unreleased
 
+## V1.2.0 
+
+- Added: `fill="currentColor` to the SVG icons 
+- Added: Contribution file.
+- Added: License file.
+- Changed: Multiple things such as sizing information in the readme.
+- Removed: `height` and `width` attributes in the SVG icons are now removed. 
+
 ## v1.1.0 - 2020-07-12
 
 - Fixes on the readme and the namespace of the project. 
