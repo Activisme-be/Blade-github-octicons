@@ -17,9 +17,9 @@ This packagecomes with the Github Octicons. And 2 different sizes. **14px** and 
 The sizes are defined at the end off the icon name by example: 
 
 ```
-
 <x:go-zap-16/>
 <x:go-zap-24/>
+```
 
 ## Install 
 
