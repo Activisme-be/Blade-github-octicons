@@ -4,7 +4,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
-## Unreleased
+## v1.3.0 - 2020-09-09
+
+- Added: arrow-switch icon. (16px and 24px)
+- Added: file-badge icon (16px)
+- Added: circle icons (16px)
+- Added: circle-x-fill icon (16px)
+- Added: circle-x icon (16px)
+- Added: Laravel 8 support
+- Fixed: Corrected positioning for `triangle-down-16`
 
 ## V1.2.0 - 2020-08-22
 
