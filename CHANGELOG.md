@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
+## v2.0.0 - 2020-09-09
+
+###Enhancements
+
+- Updated the Github Octicons to v11.
+
+### 💥 Breaking changes
+
+- Fix 24px icon names
+  - `unverifed-24.svg` → `unverified-24.svg`
+  - `file-symlink-24.svg` → `file-symlink-file-24.svg`
+  - `fire-24.svg` → `flame-24.svg`
+  - `eye-slash-24.svg` → `eye-closed-24.svg`
+- Remove 24px `settings` icon. Use `gear` instead
+
 ## v1.3.0 - 2020-09-09
 
 - Added: arrow-switch icon. (16px and 24px)
