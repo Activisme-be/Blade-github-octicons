@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
+## v2.1.0 - 2020-10-24
+
+- Added container icon (16px, 24px)
+- Added the 24px squirrel icon
+- Fixed the 24px Smiley icon 
+
+
 ## v2.0.0 - 2020-09-09
 
 ###Enhancements
