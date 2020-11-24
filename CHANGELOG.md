@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## v2.1.0 - 2020-10-24
 
+- Added container icon (16px, 24px)
 - Added the 24px squirrel icon
 - Fixed the 24px Smiley icon 
 
