@@ -11,7 +11,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 - Dropped support for PHP 7.2
 - Fixed wràng serviceprovider class.
 
-
 ## v2.1.0 - 2020-10-24
 
 - Added container icon (16px, 24px)
