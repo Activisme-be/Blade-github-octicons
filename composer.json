@@ -4,7 +4,7 @@
   "description":"A package to easily make use of Github octicons in your Laravel blade views.",
   "license": "MIT",
   "require": {
-    "php": "^7.3",
+    "php": "^7.3|^8.0",
     "blade-ui-kit/blade-icons": "^0.5",
     "illuminate/support": "^7.14|^8.0"
   },
