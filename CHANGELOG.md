@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
+## v2.2.0 - 202-12-31
+
+- Added strikethrough icons (16px, 24px)
+- Refine dash and plus icon to be aligned 
+
 ## v2.1.0 - 2020-10-24
 
 - Added container icon (16px, 24px)
