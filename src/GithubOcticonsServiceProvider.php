@@ -5,11 +5,6 @@ namespace Actb\BladeGithubOcticons;
 use BladeUI\Icons\Factory;
 use Carbon\Laravel\ServiceProvider;
 
-/**
- * Class GithubOcticonsServiceProvider
- *
- * @package Actb\BladeFeatherIcons
- */
 class GithubOcticonsServiceProvider extends ServiceProvider
 {
     public function register(): void
