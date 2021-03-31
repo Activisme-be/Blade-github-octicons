@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 ## v3.0.0 - 2021-03-31 (Planned date)
 
 - Added PHP8 version in the github action for testing
+- Added strikethrough icon (16px, 24px)
+
 
 
 ## v2.1.0 - 2020-10-24
