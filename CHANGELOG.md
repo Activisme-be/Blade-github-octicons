@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 **Breaking changes**
 
 - Renames `trashcan-16` icon to `trash-16`
+- Bumped to blade icons V1. Which moves the laravel and php versions further forward.
 
 ## v2.1.0 - 2020-10-24
 

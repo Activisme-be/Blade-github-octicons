@@ -8,12 +8,12 @@ For a full list of available icons see the [SVG directory](https://github.com/Ac
 
 ## Requirements 
 
-- PHP 7.2 or higher 
-- Laravel 7.14 or higher 
+- PHP 7.4 or higher 
+- Laravel 8.0 or higher 
 
 ## Icon information 
 
-This packagecomes with the Github Octicons. And 2 different sizes. **14px** and **26px** 
+This package comes with the Github Octicons. And 2 different sizes. **14px** and **26px** 
 The sizes are defined at the end off the icon name by example: 
 
 ```
