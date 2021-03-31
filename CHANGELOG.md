@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 - Added strikethrough icon (16px, 24px)
 - Added number icon (16px, 24px)
 - Added video icon (16px, 24px)
+- Added bug icon (24px)
 - Fixed alignment for the `plus` and `dash` icon
 - Fixed Safari rendering of arrows
 
