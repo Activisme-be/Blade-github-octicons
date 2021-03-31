@@ -3,7 +3,8 @@
 namespace Actb\BladeGithubOcticons;
 
 use BladeUI\Icons\Factory;
-use Carbon\Laravel\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
+
 
 class GithubOcticonsServiceProvider extends ServiceProvider
 {
