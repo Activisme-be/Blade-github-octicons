@@ -20,6 +20,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 - Renames `trashcan-16` icon to `trash-16`
 - Bumped to blade icons V1. Which moves the laravel and php versions further forward.
 
+## v2.3.0 - 2020-12-31
+
+- Added strikethrough icons (16px, 24px)
+- Refine dash and plus icon to be aligned 
+
+## v2.2.0 - 2020-12-07
+
+- Added support for PHP 8
+- Added github templates for issues, pr's and such.
+- Dropped support for PHP 7.2
+- Fixed wrong serviceprovider class.
+
 ## v2.1.0 - 2020-10-24
 
 - Added container icon (16px, 24px)
