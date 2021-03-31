@@ -6,11 +6,6 @@ use BladeUI\Icons\Factory;
 use Illuminate\Support\ServiceProvider;
 
 
-/**
- * Class GithubOcticonsServiceProvider
- *
- * @package Actb\BladeFeatherIcons
- */
 class GithubOcticonsServiceProvider extends ServiceProvider
 {
     public function register(): void

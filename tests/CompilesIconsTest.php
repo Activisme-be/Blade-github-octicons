@@ -6,11 +6,6 @@ use Actb\BladeGithubOcticons\GithubOcticonsServiceProvider;
 use Orchestra\Testbench\TestCase;
 use BladeUI\Icons\BladeIconsServiceProvider;
 
-/**
- * Class CompilesIconsTest
- *
- * @package Tests
- */
 class CompilesIconsTest extends TestCase
 {
     protected function getPackageProviders($app)

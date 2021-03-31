@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
+## v3.0.0 - 2021-03-31 (Planned date)
+
+- Added PHP8 version in the github action for testing
+- Added strikethrough icon (16px, 24px)
+- Added number icon (16px, 24px)
+- Added video icon (16px, 24px)
+- Added bug icon (24px)
+- Added multi-select icon (16px, 24px)
+- Fixed alignment for the `plus` and `dash` icon
+- Fixed Safari rendering of arrows
+
+**Breaking changes**
+
+- Renames `trashcan-16` icon to `trash-16`
+- Bumped to blade icons V1. Which moves the laravel and php versions further forward to php version 7.4 as minimum and Laravel 8.
+
 ## v2.3.0 - 2020-12-31
 
 - Added strikethrough icons (16px, 24px)
@@ -14,7 +30,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 - Added support for PHP 8
 - Added github templates for issues, pr's and such.
 - Dropped support for PHP 7.2
-- Fixed wràng serviceprovider class.
+- Fixed wrong serviceprovider class.
 
 ## v2.1.0 - 2020-10-24
 
