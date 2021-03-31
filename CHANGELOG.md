@@ -13,6 +13,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 - Fixed alignment for the `plus` and `dash` icon
 - Fixed Safari rendering of arrows
 
+**Breaking changes**
+
+- Renames `trashcan-16` icon to `trash-16`
 
 ## v2.1.0 - 2020-10-24
 
