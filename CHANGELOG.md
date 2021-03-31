@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
+## v3.0.0 - 2021-03-31 (Planned date)
+
+- Added PHP8 version in the github action for testing
+
+
 ## v2.1.0 - 2020-10-24
 
 - Added container icon (16px, 24px)
