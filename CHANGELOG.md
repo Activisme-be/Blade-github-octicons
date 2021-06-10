@@ -4,6 +4,49 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
+## v3.1.0 - 2021-06-10
+
+### Added 
+
+- Codespaces icon 
+- Sidebar icons 
+- Browser icons 
+- codescan icon 
+- Dependabot icon 
+- Blocked icon 
+- Duplicate icon 
+- Person add icon 
+- Table icon 
+- Arrow up icon 
+- Columns icons 
+- Rows icon 
+- Single select icon
+- Rows icon 
+- Single select icon 
+- Diamond icon 
+- Hash icon 
+- Number icon 
+- Draft pull request icons
+- Closed pull reqiest icons 
+- Key asterisk icon (16px)
+
+### Enhancements 
+
+- new issue icons
+
+### Fixes 
+
+- Circle icon 
+- Megaphone icon 
+- Arrow up icon (24px)
+
+### Breaking changes 
+
+- Removed the 24px copy icon
+- Remove insights icon 
+- Renamed `git-fork-24` to `repo-forked-24`
+- Removed the octoface icon
+
 ## v3.0.0 - 2021-03-31
 
 - Added PHP8 version in the github action for testing
@@ -41,7 +84,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## v2.0.0 - 2020-09-09
 
-###Enhancements
+### Enhancements
 
 - Updated the Github Octicons to v11.
 
