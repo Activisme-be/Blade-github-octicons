@@ -1,5 +1,4 @@
 /build
-/dist
 /vendor
 /.idea
 /.phpunit.result.cache
