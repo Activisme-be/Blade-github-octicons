@@ -5,10 +5,11 @@
   "license": "MIT",
   "require": {
       "php": "^7.4|^8.0",
-      "blade-ui-kit/blade-icons": "^1.0",
+      "blade-ui-kit/blade-icons": "^1.1.1",
       "illuminate/support": "^8.0"
   },
   "require-dev": {
+      "ext-dom": "*",
       "orchestra/testbench": "^6.0",
       "phpunit/phpunit": "^9.0"
   },
