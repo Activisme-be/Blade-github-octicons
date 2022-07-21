@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
+## V3.1.1 - 2022-07-21
+
+- Added Laravel 9 Support
+
 ## v3.1.0 - 2021-06-10
 
 ### Added 
