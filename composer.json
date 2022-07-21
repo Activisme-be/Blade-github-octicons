@@ -10,6 +10,7 @@
   },
   "require-dev": {
       "orchestra/testbench": "^6.0|^7.0",
+      "ext-dom": "*",
       "phpunit/phpunit": "^9.0"
   },
   "autoload": {
