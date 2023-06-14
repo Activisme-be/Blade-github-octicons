@@ -66,8 +66,11 @@ jobs:
     - name: Install Dependencies
       run: composer update --prefer-stable --no-interaction --prefer-dist --no-progress --ansi
 
-    - name: Update to latest version
-      run: cd dist && git checkout tags/${{ env.LATEST_VERSION }}
+      # Update references
+    - name: Git Sumbodule Update to latest version
+      run: |
+        git pull --recurse-submodules
+        git submodule update --remote --recursive
 
     - name: Compile icons to resources directory
       run: ./vendor/bin/blade-icons-generate
