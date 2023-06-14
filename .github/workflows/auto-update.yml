@@ -92,7 +92,7 @@ jobs:
     - name: Create PR for latest version
       uses: peter-evans/create-pull-request@v3
       with:
-        title: "chore: update to Primer Octicons v${{ env.LATEST_VERSION }}"
+        title: "chore: update to Primer Octicons ${{ env.LATEST_VERSION }}"
         body: |
           This updates from [${{ env.CURRENT_VERSION }}](https://github.com/primer/octicons/releases/tag/${{ env.CURRENT_VERSION }}) to [${{ env.LATEST_VERSION }}](https://github.com/primer/octicons/releases/tag/${{ env.LATEST_VERSION }}).
 
@@ -100,6 +100,5 @@ jobs:
 
           Please check for any breaking or notable changes before merging.
           - [Changelog](https://github.com/primer/octicons/blob/${{ env.LATEST_VERSION }}/CHANGELOG.md#change-log)
-          - [Upgrade Guide](https://github.com/primer/octicons/blob/${{ env.LATEST_VERSION }}/UPGRADING.md#upgrading-guide)
 
           Please also check that the snapshots were updated successfully in commit: ${{ steps.commit_snapshots.outputs.commit_long_sha }}.
